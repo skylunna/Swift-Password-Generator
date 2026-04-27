@@ -18,7 +18,7 @@
 - **最低版本**: iOS 15.0 / macOS 12.0
 
 ## 🚀 如何运行
-1. 克隆项目：`git clone https://github.com/你的用户名/仓库名.git`
+1. 克隆项目：`git clone https://github.com/skylunna/Swift-Password-Generator.git`
 2. 使用 Xcode 15+ 打开 `SecurePass.xcodeproj`
 3. 选择模拟器或真机，点击运行 (⌘R)
 
